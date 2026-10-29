@@ -10,7 +10,7 @@ $anio_actual = date("Y");
     <title><?php echo $nombre_sitio; ?></title>
 </head>
 <body>
-    <h1>¡Bienvenido a <?php echo $nombre_sitio; ?>!</h1>
+    <h1>Bienvenido a <?php echo $nombre_sitio; ?>!</h1>
     <p>La fecha de hoy es: <?php echo date("d/m/Y"); ?></p>
     <footer>
         <p>&copy; <?php echo $anio_actual; ?> Todos los derechos reservados.</p>
